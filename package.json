@@ -4,6 +4,12 @@
 	"description": "Make relative file links in Pi's assistant replies clickable by resolving them to absolute file:// URLs.",
 	"type": "module",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Jetemple/pi-file-links.git"
+	},
+	"homepage": "https://github.com/Jetemple/pi-file-links#readme",
+	"bugs": "https://github.com/Jetemple/pi-file-links/issues",
 	"keywords": [
 		"pi-package",
 		"pi-extension",
